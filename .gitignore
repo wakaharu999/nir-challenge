@@ -219,6 +219,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Notebooks
+notebooks/
+
 # Generated outputs
 submission.csv
 data/master_feature_table_*.csv
