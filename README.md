@@ -35,4 +35,4 @@
 
 黒=真値 / 青=cf / 緑=dry / 赤=動的アンサンブル（樹種内 MC 昇順）。
 
-![LOSO result](notebooks/figures/result.png)
+![LOSO result](result.png)
